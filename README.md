@@ -6,37 +6,37 @@ Automatic distribution of resumes
 一个老程序员他1980年的简历。
 
 ```angular2html
-https://github.com/runvnc/dadsresume
+https://github.com/runvnc/dadsresume  ⭐ 1735
 ```
 
 ## 十大招聘网站
 BOSS直聘、前程无忧、智联招聘、猎聘、店长直聘、鱼泡直聘、脉脉高聘、赶集招聘、国聘、应届生求职网
 
 ```angular2html
-https://github.com/runvnc/dadsresume
+https://github.com/runvnc/dadsresume  ⭐ 1735
 ```
 
 ## Interview Master
 全流程面试准备与求职决策系统 — 一个面向 Claude AI 的 Skill，帮助求职者从岗位分析到拿下 Offer 的每一步。
 
 ```angular2html
-https://github.com/chen3tu/interview-master-skill
+https://github.com/chen3tu/interview-master-skill  ⭐ 15
 ```
 
 ## WonderCV AI 求职工具合集 | Resume Skills & Tools 🛠️✨
 ClawCV 是由超级简历 WonderCV 旗下 超级龙虾 WonderClaw 推出的开源 AI 求职 Skills 集合。背靠 WonderCV 的 160 万字行业语料库 和 3000 万+ 用户验证的 AI 引擎，在终端里即可完成专业级简历优化。
 ```angular2html
-https://github.com/WonderCV-com/resume-skills-and-tools
+https://github.com/WonderCV-com/resume-skills-and-tools  ⭐ 44
 ```
 
 ## ResumeSample
 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 ```angular2html
-https://github.com/geekcompany/ResumeSample/
+https://github.com/geekcompany/ResumeSample/  ⭐ 28115
 ```
 
 ## Resume-Matcher
-Resume Matcher 的工作方式是先建立一份“主简历”，然后针对每个职位描述进行定制。安装说明见：如何安装
+Resume Matcher 的工作方式是先建立一份"主简历"，然后针对每个职位描述进行定制。安装说明见：如何安装
 
 工作流程
 上传你的主简历（PDF 或 DOCX）
@@ -47,7 +47,7 @@ Resume Matcher 的工作方式是先建立一份“主简历”，然后针对�
 导出为你选定模板的专业 PDF
 
 ```angular2html
-https://github.com/srbhr/Resume-Matcher
+https://github.com/srbhr/Resume-Matcher  ⭐ 27024
 ```
 
 
@@ -55,7 +55,7 @@ https://github.com/srbhr/Resume-Matcher
 一个独一无二的简历生成器，牢牢保障你的隐私。完全安全、可定制、便携、开源且永久免费
 
 ```angular2html
-https://github.com/amruthpillai/reactive-resume
+https://github.com/amruthpillai/reactive-resume  ⭐ 36777
 ```
 
 ## reactive-resume
@@ -79,7 +79,7 @@ BOSS 直聘岗位搜索 + 公司背调 + 面试准备，基于 OpenClaw Skill
    参考回答 - 回答框架建议
 
 ```angular2html
-https://github.com/Left2y/job-hunter
+https://github.com/Left2y/job-hunter  ⭐ 3
 ```
 
 ## career-ops
@@ -95,7 +95,7 @@ Career-Ops 可以把任何 AI 编码 CLI 变成完整的求职指挥中心。你
 career-ops 具备代理式工作能力：Claude Code 会用 Playwright 浏览招聘页面，通过推理你的简历与职位描述是否匹配来评估契合度，而不是只做关键词匹配；同时它也会根据每个职位调整你的简历。
 
 ```angular2html
-https://github.com/santifer/career-ops
+https://github.com/santifer/career-ops  ⭐ 44342
 ```
 
 ## career-ops
@@ -106,7 +106,7 @@ https://github.com/santifer/career-ops
 非常适合那些技术精通的老板，他们想在面试前快速查看对方的git/github活动。
 
 ```angular2html
-https://github.com/resume/resume.github.com
+https://github.com/resume/resume.github.com  ⭐ 62849
 ```
 
 
@@ -114,7 +114,7 @@ https://github.com/resume/resume.github.com
 一系列专注于简历优化、求职申请和职业发展的人工智能代理技能。为求职者、转行者以及希望Claude Code帮助简历写作、ATS优化、面试准备和战略性求职的专业人士打造。
 
 ```angular2html
-https://github.com/Paramchoudhary/ResumeSkills
+https://github.com/Paramchoudhary/ResumeSkills  ⭐ 468
 ```
 
 
@@ -130,7 +130,7 @@ https://github.com/Paramchoudhary/ResumeSkills
 自我提升：图书馆随着每一份成功的简历而不断壮大
 
 ```angular2html
-https://github.com/varunr89/resume-tailoring-skill
+https://github.com/varunr89/resume-tailoring-skill  ⭐ 412
 ```
 
 
@@ -147,41 +147,41 @@ https://github.com/varunr89/resume-tailoring-skill
 电报循环	/proficiently:jobsearch-telegram	无头式求职助手，通过Telegram——通过聊天申请、搜索和查询状态
 
 ```angular2html
-https://github.com/proficientlyjobs/proficiently-claude-skills
+https://github.com/proficientlyjobs/proficiently-claude-skills  ⭐ 170
 ```
 
 ## SkillsSphere-AI
 SkillSphere AI 是一个由人工智能驱动的平台，用于实时学习、简历分析和就业准备。导师举办互动课程，学生提升技能，将简历与职位描述匹配，并通过AI模拟面试做准备——弥合学习与招聘之间的差距。
 
 ```angular2html
-https://github.com/swayam03275/SkillsSphere-AI
+https://github.com/swayam03275/SkillsSphere-AI  ⭐ 26
 ```
 
 ## yupi-skill
 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw
 ```angular2html
-https://github.com/liyupi/yupi-skill
+https://github.com/liyupi/yupi-skill  ⭐ 263
 ```
 
 ## yupi-skill
 利用现有的Markdown简历库，Claude技能，针对职位描述量身定制简历。研究职位和公司，揭示相关真实经验，评分匹配，并为单一职位或小批量工作生成真实简历。
 
 ```angular2html
-https://github.com/amanattar/resume-tailoring-skill
+https://github.com/amanattar/resume-tailoring-skill  ⭐ 77
 ```
 
 ## FindJobs-Agent
 一个集成了岗位数据爬取、LLM 智能分析、简历解析和 AI 模拟面试的全栈求职辅助系统。
 
 ```angular2html
-https://github.com/he-yufeng/FindJobs-Agent
+https://github.com/he-yufeng/FindJobs-Agent  ⭐ 217
 ```
 
 ## resumePolice
 端到端自动投递Agent，自动生成简历+求职信+自动投递
 
 ```angular2html
-https://github.com/itMrBoy/resumePolice
+https://github.com/itMrBoy/resumePolice  ⭐ 2195
 ```
 
 ## prisma-ai
@@ -198,63 +198,63 @@ PrismaAI解决你求职时最头疼的 4 件事：
 AI 自动补全与结构化，提炼面试题和标准答案，支持版本管理与共建迭代。
 
 ```angular2html
-https://github.com/weicanie/prisma-ai
+https://github.com/weicanie/prisma-ai  ⭐ 369
 ```
 
 ## prisma-ai
 AI简历平台-在线简历编辑-模板丰富-结合大模型帮您快速构建您的简历-支持导出pdf等
 
 ```angular2html
-https://github.com/weidong-repo/AIResume
+https://github.com/weidong-repo/AIResume  ⭐ 197
 ```
 
 ## prisma-ai
 可分享的Claude AI技能，用于优化LPS/ATS最佳实践的求职申请
 
 ```angular2html
-https://github.com/jasonjgarcia24/ai-assisted-job-search
+https://github.com/jasonjgarcia24/ai-assisted-job-search  ⭐ 4
 ```
 
 ## resume-optimizer
 一个面向求职者的简历优化 Skill。
 
 ```angular2html
-https://github.com/wyh0626/resume-optimizer
+https://github.com/wyh0626/resume-optimizer  ⭐ 78
 ```
 
 ## Jobs_Applier_AI_Agent_AIHawk
 LinkedIn自动投递，AI驱动，最成熟的开源自动投递项目
 
 ```angular2html
-https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk
+https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk  ⭐ 29759
 ```
 
 ## ApplyPilot
 6阶段全自动投递流水线：发现岗位→AI评分→定制简历→写求职信→自动提交，支持5+招聘网站+48家Workday企业
 
 ```angular2html
-https://github.com/Pickle-Pixel/ApplyPilot
+https://github.com/Pickle-Pixel/ApplyPilot  ⭐ N/A
 ```
 
 ## boss_batch_push
 Boss直聘批量投简历，批量发送自定义招呼语
 
 ```angular2html
-https://github.com/yangfeng20/boss_batch_push
+https://github.com/yangfeng20/boss_batch_push  ⭐ N/A
 ```
 
 ## boss_batch_push
 AI工作猎手，Boss直聘全自动投递+AI坐席智能回复HR+DeepSeek/ChatGPT
 
 ```angular2html
-https://github.com/yangfeng20/ai-job
+https://github.com/yangfeng20/ai-job  ⭐ N/A
 ```
 
 ## job-hunter-skill
 自动从 Boss 直聘发现、筛选、记录匹配岗位的 Claude Code Skill。 建立求职画像后，每 30 分钟自动搜索新岗位，智能评分排序，持续追加到候选清单。
 
 ```angular2html
-https://github.com/yk-ken/job-hunter-skill
+https://github.com/yk-ken/job-hunter-skill  ⭐ N/A
 ```
 
 ## bosszhipin-greeting-skills
@@ -265,39 +265,39 @@ BOSS直聘打招呼生成器（适用于OpenClaw Skills）。支持个性化生�
 求职档案管理 — 首次使用时建档，之后无需重复提供背景信息，随时可更新
 字数严格控制 — 输出严格控制在 200-250 字，符合 BOSS直聘打招呼的最佳长度
 ```angular2html
-https://github.com/KaguraNanaga/bosszhipin-greeting-skills
+https://github.com/KaguraNanaga/bosszhipin-greeting-skills  ⭐ N/A
 ```
 
 
 ## boss-agent-cli
 核心推荐：专为 AI Agent 设计的Boss直聘智联招聘求职CLI，npx skills add一键安装为 Skill，支持搜索/福利筛选/打招呼/批量投递/AI简历优化
 ```angular2html
-https://github.com/can4hou6joeng4/boss-agent-cli
+https://github.com/can4hou6joeng4/boss-agent-cli  ⭐ N/A
 ```
 
 
 ## boss-helper
 Boss直聘助手, 皆在减少投递简历的麻烦, 和提高投递简历的效率, 技术栈使用WXT + Vue3 + element-plus, 开源在 Github 欢迎前来Pr
 ```angular2html
-https://github.com/Ocyss/boss-helper
+https://github.com/Ocyss/boss-helper  ⭐ N/A
 ```
 
 ## MCP2skill
 将MCP支持的工作流程转化为可安装的AI技能。包含Liepin求职技能。
 ```angular2html
-https://github.com/xllinbupt/MCP2skill
+https://github.com/xllinbupt/MCP2skill  ⭐ N/A
 ```
 
 ## get_jobs
 【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)
 ```angular2html
-https://github.com/loks666/get_jobs
+https://github.com/loks666/get_jobs  ⭐ N/A
 ```
 
 ## npe_get_jobs
 猎聘✅ +51Job+Boss  本工具可自动连接各大招聘网站，AI 帮你筛选职位、写打招呼语、自动投递简历——实现真正的全自动化智能求职。
 ```angular2html
-https://github.com/exception-coder/npe_get_jobs
+https://github.com/exception-coder/npe_get_jobs  ⭐ N/A
 ```
 
 
@@ -329,7 +329,7 @@ PDF 导出：一键生成高质量 PDF 简历，自动分页
 
 
 ```angular2html
-https://github.com/xixiluo95/zhaopin
+https://github.com/xixiluo95/zhaopin  ⭐ N/A
 ```
 
 
@@ -339,14 +339,14 @@ Auto-Job-Hunter 是一个工业级的多平台全自动求职系统。它不仅�
 支持平台：BOSS 直聘 | 前程无忧 (51job) | 猎聘网
 
 ```angular2html
-https://github.com/jolie-z/Auto-JobHunter
+https://github.com/jolie-z/Auto-JobHunter  ⭐ N/A
 ```
 
 ## geekgeekrun
 牛人快跑 - GeekGeekRun，求职找工作自动化工具，基于 Puppeteer、Electron。界面友好，简单易用！开源，免费！快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理；让你即刻变身成为一台冇得感情的求职机器🤖，找工作不内耗。宝宝不用动，妈妈全自动~祝你收获好Offer！
 
 ```angular2html
-https://github.com/geekgeekrun/geekgeekrun
+https://github.com/geekgeekrun/geekgeekrun  ⭐ N/A
 ```
 
 
@@ -356,13 +356,13 @@ https://github.com/geekgeekrun/geekgeekrun
 - upwork-hunting — 基于 n8n 模板库优势的 Upwork 精准竞标
 - upwork — Profile 优化、Proposal 起草、防骗检测（人工审核后发送）
 ```angular2html
-https://github.com/openclaw/skills
+https://github.com/openclaw/skills  ⭐ N/A
 ```
 
 ## BossZhiPin_Job_Search
 读 BOSS 上的岗位描述，用 LLM 给 HR 生成一封礼貌的打招呼语，按规则审核后再发送。支持 DeepSeek / OpenAI / Claude 三个 provider，任意一个 key 都能起跑。
 ```angular2html
-https://github.com/longsizhuo/BossZhiPin_Job_Search
+https://github.com/longsizhuo/BossZhiPin_Job_Search  ⭐ N/A
 ```
 
 ## bosszhipin-greeting-skills
@@ -400,8 +400,6 @@ https://clawhub.ai/thinkpeace/fill-job-application-info
 ```angular2html
 https://clawhub.ai/yuyang-rgb094/resume-screening
 ```
-
-
 
 ## UP 简历求职助手
 UP 简历 AI 求职助手。创建专业简历、搜索校招/社招/实习岗位、JD 对照优化、简历诊断、每日求职监控、智能投递指导。当用户说"创建简历"、"编辑简历"、"搜索校招"、"找工作"、"优化简历"、"投递"、"监控校招"时使用。
@@ -480,7 +478,7 @@ https://clawhub.ai/yangchao228/resume-interview-generator
 使用MCP获取猎聘、Boss、智联、51job职位
 
 ```angular2html
-https://github.com/mergedao/mcp-jobs
+https://github.com/mergedao/mcp-jobs  ⭐ N/A
 ```
 
 
