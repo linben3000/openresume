@@ -1,2 +1,2 @@
 # openresume
-Automatic distribution of resumes
+Automatic distribution of Markdown-formatted resumes to different recruitment websites.
